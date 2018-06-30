@@ -16,18 +16,18 @@ Required following environment stepup
 
 1.) Start MongoDB server in terminal:
 
-** sudo service mongodb start **
+* sudo service mongodb start 
 
 2.) Run mongo
 
 3.) Run node server using:
 
-** npm run start**
+* npm run start
 
 ## Test
 
 Test it using Postman
 
- **URL : ** http://localhost:3000/tasks for reading lists of all tasks
+ *URL :  http://localhost:3000/tasks for reading lists of all tasks
 
- **URL : ** http://localhost:3000/tasks/taskId for reading particular task
+ *URL :  http://localhost:3000/tasks/taskId for reading particular task
