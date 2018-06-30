@@ -1,0 +1,15 @@
+{
+  "name": "todoRESTfulapi",
+  "description": "RESTful todoListApi",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  
+  "keywords": [
+    "RESTful",
+    "API",
+    "Node.js"
+  ]
+ 
+}
